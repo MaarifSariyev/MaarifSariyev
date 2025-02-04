@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaarifSariyev
-- 👀 I’m interested in Frontend Development and AI
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Software Development and AI
+- 🌱 I’m currently learning AI engineering
 - 📫 How to reach me maarifsariyev5@gmail.com
 
 <!---
